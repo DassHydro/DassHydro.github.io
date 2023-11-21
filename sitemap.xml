@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>https://mathhydronum.insa-toulouse.fr/</loc>
+    <lastmod>2023-06-22T15:16:38+02:00</lastmod>
+  </url><url>
+    <loc>https://mathhydronum.insa-toulouse.fr/the_team/</loc>
+    <lastmod>2023-06-22T15:20:34+02:00</lastmod>
+  </url><url>
+    <loc>https://mathhydronum.insa-toulouse.fr/codes_presentation/</loc>
+    <lastmod>2023-06-26T17:23:02+02:00</lastmod>
+  </url><url>
+    <loc>https://mathhydronum.insa-toulouse.fr/examples/ex_dassflow2d/</loc>
+    <lastmod>2023-06-22T15:49:54+02:00</lastmod>
+  </url><url>
+    <loc>https://mathhydronum.insa-toulouse.fr/examples/</loc>
+    <lastmod>2023-06-22T15:49:54+02:00</lastmod>
+  </url><url>
+    <loc>https://mathhydronum.insa-toulouse.fr/doc/</loc>
+    <lastmod>2023-06-22T16:05:31+02:00</lastmod>
+  </url><url>
+    <loc>https://mathhydronum.insa-toulouse.fr/download/</loc>
+    <lastmod>2023-06-22T15:58:23+02:00</lastmod>
+  </url><url>
+    <loc>https://mathhydronum.insa-toulouse.fr/tools/</loc>
+    <lastmod>2023-07-21T11:33:29+02:00</lastmod>
+  </url><url>
+    <loc>https://mathhydronum.insa-toulouse.fr/categories/</loc>
+  </url><url>
+    <loc>https://mathhydronum.insa-toulouse.fr/tags/</loc>
+  </url>
+</urlset>

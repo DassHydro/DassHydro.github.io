@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Test Cases on DassHydro</title>
+    <link>https://mathhydronum.insa-toulouse.fr/examples/</link>
+    <description>Recent content in Test Cases on DassHydro</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 22 Jun 2023 15:49:54 +0200</lastBuildDate><atom:link href="https://mathhydronum.insa-toulouse.fr/examples/index.xml" rel="self" type="application/rss+xml" />
+  </channel>
+</rss>
